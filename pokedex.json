@@ -1,0 +1,6 @@
+{ "nom": "Pikachu",
+"pv": 35,
+"niveau": 5,
+"attaque": 55,
+"defense": 40,
+"type": "Electrique"}
